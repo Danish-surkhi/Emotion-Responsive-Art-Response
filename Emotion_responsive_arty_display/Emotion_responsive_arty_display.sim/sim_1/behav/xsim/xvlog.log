@@ -1,0 +1,20 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Emotion_responsive/Emotion_responsive_arty_display/Emotion_responsive_arty_display.srcs/sim_1/new/ASCIIConverter.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ASCIIConverter
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Emotion_responsive/Emotion_responsive_arty_display/Emotion_responsive_arty_display.srcs/sim_1/new/ArtGenerationSystem.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ArtGenerationSystem
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Emotion_responsive/Emotion_responsive_arty_display/Emotion_responsive_arty_display.srcs/sim_1/new/ArtGenerator.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ArtGenerator
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Emotion_responsive/Emotion_responsive_arty_display/Emotion_responsive_arty_display.srcs/sim_1/new/DenseLayer_WeightsOnly.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DenseLayer_WeightsOnly
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Emotion_responsive/Emotion_responsive_arty_display/Emotion_responsive_arty_display.srcs/sim_1/new/DenseLayer_WithBias.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DenseLayer_WithBias
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Emotion_responsive/Emotion_responsive_arty_display/Emotion_responsive_arty_display.srcs/sim_1/new/EmotionArtSystem.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EmotionArtSystem
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Emotion_responsive/Emotion_responsive_arty_display/Emotion_responsive_arty_display.srcs/sim_1/new/EmotionDetection.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EmotionDetection
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Emotion_responsive/Emotion_responsive_arty_display/Emotion_responsive_arty_display.srcs/sim_1/new/ImagePreprocessing.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ImagePreprocessing
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Emotion_responsive/Emotion_responsive_arty_display/Emotion_responsive_arty_display.srcs/sim_1/new/NoiseGenerator.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module NoiseGenerator
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Emotion_responsive/Emotion_responsive_arty_display/Emotion_responsive_arty_display.srcs/sim_1/new/EmotionArtSystem_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EmotionArtSystem_tb

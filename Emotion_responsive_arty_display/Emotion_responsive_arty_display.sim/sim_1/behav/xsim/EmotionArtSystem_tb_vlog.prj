@@ -1,0 +1,18 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../Emotion_responsive_arty_display.srcs/sim_1/new/ASCIIConverter.sv" \
+"../../../../Emotion_responsive_arty_display.srcs/sim_1/new/ArtGenerationSystem.sv" \
+"../../../../Emotion_responsive_arty_display.srcs/sim_1/new/ArtGenerator.sv" \
+"../../../../Emotion_responsive_arty_display.srcs/sim_1/new/DenseLayer_WeightsOnly.sv" \
+"../../../../Emotion_responsive_arty_display.srcs/sim_1/new/DenseLayer_WithBias.sv" \
+"../../../../Emotion_responsive_arty_display.srcs/sim_1/new/EmotionArtSystem.sv" \
+"../../../../Emotion_responsive_arty_display.srcs/sim_1/new/EmotionDetection.sv" \
+"../../../../Emotion_responsive_arty_display.srcs/sim_1/new/ImagePreprocessing.sv" \
+"../../../../Emotion_responsive_arty_display.srcs/sim_1/new/NoiseGenerator.sv" \
+"../../../../Emotion_responsive_arty_display.srcs/sim_1/new/EmotionArtSystem_tb.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

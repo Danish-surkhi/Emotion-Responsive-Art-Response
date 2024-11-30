@@ -1,0 +1,15 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+D:/Emotion_responsive/Emotion_responsive_arty_display/Emotion_responsive_arty_display.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,uvm,,,,,,
+D:/Emotion_responsive/Emotion_responsive_arty_display/Emotion_responsive_arty_display.srcs/sim_1/new/ASCIIConverter.sv,1731663636,systemVerilog,,D:/Emotion_responsive/Emotion_responsive_arty_display/Emotion_responsive_arty_display.srcs/sim_1/new/ArtGenerationSystem.sv,,ASCIIConverter,,uvm,,,,,,
+D:/Emotion_responsive/Emotion_responsive_arty_display/Emotion_responsive_arty_display.srcs/sim_1/new/ArtGenerationSystem.sv,1731663666,systemVerilog,,D:/Emotion_responsive/Emotion_responsive_arty_display/Emotion_responsive_arty_display.srcs/sim_1/new/ArtGenerator.sv,,ArtGenerationSystem,,uvm,,,,,,
+D:/Emotion_responsive/Emotion_responsive_arty_display/Emotion_responsive_arty_display.srcs/sim_1/new/ArtGenerator.sv,1731660284,systemVerilog,,D:/Emotion_responsive/Emotion_responsive_arty_display/Emotion_responsive_arty_display.srcs/sim_1/new/DenseLayer_WeightsOnly.sv,,ArtGenerator,,uvm,,,,,,
+D:/Emotion_responsive/Emotion_responsive_arty_display/Emotion_responsive_arty_display.srcs/sim_1/new/DenseLayer_WeightsOnly.sv,1731660257,systemVerilog,,D:/Emotion_responsive/Emotion_responsive_arty_display/Emotion_responsive_arty_display.srcs/sim_1/new/DenseLayer_WithBias.sv,,DenseLayer_WeightsOnly,,uvm,,,,,,
+D:/Emotion_responsive/Emotion_responsive_arty_display/Emotion_responsive_arty_display.srcs/sim_1/new/DenseLayer_WithBias.sv,1731660303,systemVerilog,,D:/Emotion_responsive/Emotion_responsive_arty_display/Emotion_responsive_arty_display.srcs/sim_1/new/EmotionArtSystem.sv,,DenseLayer_WithBias,,uvm,,,,,,
+D:/Emotion_responsive/Emotion_responsive_arty_display/Emotion_responsive_arty_display.srcs/sim_1/new/EmotionArtSystem.sv,1731660312,systemVerilog,,D:/Emotion_responsive/Emotion_responsive_arty_display/Emotion_responsive_arty_display.srcs/sim_1/new/EmotionDetection.sv,,EmotionArtSystem,,uvm,,,,,,
+D:/Emotion_responsive/Emotion_responsive_arty_display/Emotion_responsive_arty_display.srcs/sim_1/new/EmotionArtSystem_tb.sv,1731660253,systemVerilog,,,,EmotionArtSystem_tb,,uvm,,,,,,
+D:/Emotion_responsive/Emotion_responsive_arty_display/Emotion_responsive_arty_display.srcs/sim_1/new/EmotionDetection.sv,1731660307,systemVerilog,,D:/Emotion_responsive/Emotion_responsive_arty_display/Emotion_responsive_arty_display.srcs/sim_1/new/ImagePreprocessing.sv,,EmotionDetection,,uvm,,,,,,
+D:/Emotion_responsive/Emotion_responsive_arty_display/Emotion_responsive_arty_display.srcs/sim_1/new/ImagePreprocessing.sv,1731660305,systemVerilog,,D:/Emotion_responsive/Emotion_responsive_arty_display/Emotion_responsive_arty_display.srcs/sim_1/new/NoiseGenerator.sv,,ImagePreprocessing,,uvm,,,,,,
+D:/Emotion_responsive/Emotion_responsive_arty_display/Emotion_responsive_arty_display.srcs/sim_1/new/NoiseGenerator.sv,1731660287,systemVerilog,,D:/Emotion_responsive/Emotion_responsive_arty_display/Emotion_responsive_arty_display.srcs/sim_1/new/EmotionArtSystem_tb.sv,,NoiseGenerator,,uvm,,,,,,
